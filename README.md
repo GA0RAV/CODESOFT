@@ -1,3 +1,2 @@
 # CODESOFT
-# JAVA
-# inernship
+
