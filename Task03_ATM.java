@@ -1,4 +1,6 @@
-// task 3 - ATM INTERFACE
+// task 3 - ATM INTERFACE 
+// Account no - 123456
+// Password - 123
 import java.util.*;
 
 class BankAccount 
@@ -67,7 +69,7 @@ class ATM
         while(true)
         {
             long acc,pa;
-            System.out.print("\n Enter the username =");
+            System.out.print("\n Enter the account no =");
             acc=scanner.nextLong();
             System.out.print("\n Enter Pin =");
             pa=scanner.nextLong();
